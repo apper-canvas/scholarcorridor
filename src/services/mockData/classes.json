@@ -1,0 +1,50 @@
+[
+  {
+    "Id": 1,
+    "name": "Algebra II",
+    "subject": "Mathematics",
+    "period": "1",
+    "room": "Room 101",
+    "studentIds": ["1", "2", "5", "7"]
+  },
+  {
+    "Id": 2,
+    "name": "World History",
+    "subject": "Social Studies", 
+    "period": "2",
+    "room": "Room 205",
+    "studentIds": ["1", "3", "5", "8"]
+  },
+  {
+    "Id": 3,
+    "name": "Biology",
+    "subject": "Science",
+    "period": "3", 
+    "room": "Lab 301",
+    "studentIds": ["1", "3", "5", "7"]
+  },
+  {
+    "Id": 4,
+    "name": "English Literature",
+    "subject": "English",
+    "period": "4",
+    "room": "Room 102",
+    "studentIds": ["2", "4", "6", "8"]
+  },
+  {
+    "Id": 5,
+    "name": "Chemistry",
+    "subject": "Science",
+    "period": "5",
+    "room": "Lab 302",
+    "studentIds": ["2", "4", "6", "7"]
+  },
+  {
+    "Id": 6,
+    "name": "Spanish III",
+    "subject": "World Language",
+    "period": "6",
+    "room": "Room 203",
+    "studentIds": ["3", "4", "6", "8"]
+  }
+]
